@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:53.195587
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:45
 #+TITLE: 閑居編
 #+PROPERTY: CBETA_ID X56n0949
 #+PROPERTY: ID KR6d0225
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 56, No. 949
 #+PROPERTY: VOL 56
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0225_X_031-0911a> ¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
-
- 閑居編第三十一¶
+閑居編第三十一¶
 宋孤山沙門　智圓　著¶
 
-錢唐孤山智果院結大界序¶
+** 錢唐孤山智果院結大界序¶
 
 大雄氏制苾芻之居而必結其大界者所以章佛剎¶
 之提封為集僧之分限歟既無奔馳損道之咎而辨¶
@@ -28,7 +27,7 @@
 由凡二年矣吾嘉其樂善一日興來遂為書其事即¶
 五年倉龍辛酉夏五月八日也。¶
 
-天台國清寺重結大界序
+** 天台國清寺重結大界序
 <pb:KR6d0225_X_031-0911b>¶
 
 天台也長于眾山國清也甲于諸剎巖穴窈窕則僊¶
@@ -53,7 +52,7 @@
 公之請也是時天禧五年倉龍辛酉春正月十三日¶
 於瑪瑙坡疊翠亭序。¶
 
-杭州法慧院結大界記¶
+** 杭州法慧院結大界記¶
 
 結大界者何所以指其封域俾同遵於律範也律範¶
 者何所以防過非而齊身口也大界苟不結則律範

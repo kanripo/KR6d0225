@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:53.061073
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:45
 #+TITLE: 閑居編
 #+PROPERTY: CBETA_ID X56n0949
 #+PROPERTY: ID KR6d0225
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 56, No. 949
 #+PROPERTY: VOL 56
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0225_X_024-0900c> ¶¶¶
 #+PROPERTY: JUAN 24
 ¶
-
- 閑居編第二十四¶
+閑居編第二十四¶
 宋孤山沙門　智圓　著¶
 
-荅李秀才書¶
+** 荅李秀才書¶
 
 隴西秀才昨惠書屬愚故疾屢作而弗果荅邇者又¶
 以手簡為貺遂并而閱之而皆辭理端勁志氣激揚¶
@@ -55,7 +54,7 @@
 也故愚以庶乎中和為立言之大要也則德乎功乎¶
 可踐言而至也秀才以為如何哉惟秀才圖之。¶
 
-與門人書
+** 與門人書
 <pb:KR6d0225_X_024-0901b>¶
 
 近得汝書云以吾所撰界相牓序勒石以圖不朽亦¶
